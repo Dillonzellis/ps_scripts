@@ -1,0 +1,22 @@
+{
+  "name": "ps_scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dillonzellis/ps_scripts.git"
+  },
+  "author": "Dillon Ellis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dillonzellis/ps_scripts/issues"
+  },
+  "homepage": "https://github.com/Dillonzellis/ps_scripts#readme",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}

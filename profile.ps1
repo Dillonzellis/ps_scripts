@@ -1,3 +1,5 @@
+# Has to be in ...Documents/WindowsPowerShell
+
 # Variables
 $ps_script_dir = 'C:\ps_scripts'
 
