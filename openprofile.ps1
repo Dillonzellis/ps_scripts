@@ -1,0 +1,1 @@
+code C:\Users\d\Documents\WindowsPowerShell\profile.ps1
