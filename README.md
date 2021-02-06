@@ -4,5 +4,5 @@ Added gulp functionality that copys profile.ps1 in working directory to correct 
 
 ## Gulp tasks:
 gulp copy = copy profile to correct profile dir <br />
-watchp = watch profile file then "copy" task <br />
+watchp = watch profile.ps1 then "copy" task <br />
 exports.default = watchp <br />
