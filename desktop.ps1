@@ -1,1 +1,3 @@
-Set-Location C:\Users\d\Desktop\
+$desktop_path = "C:\Users\dillo\Desktop\"
+
+Set-Location $desktop_path

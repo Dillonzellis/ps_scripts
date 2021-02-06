@@ -25,11 +25,3 @@ New-Alias local 'C:\Program Files (x86)\Local\Local.exe'
     # RLM Setup Scripts
     New-Alias all $psdir/webdev-startup.ps1 
     New-Alias rlm $psdir/rlm-code.ps1
-
-    
-
-    
-    
-
-
-

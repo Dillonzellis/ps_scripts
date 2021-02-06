@@ -1,9 +1,11 @@
+$profile_location = 'C:/Users/dillo/Documents/WindowsPowerShell'
+
 const gulp = require('gulp');
 const { src, series, parallel, dest, watch } = require('gulp');
 
 function copy() {
   return src('profile.ps1')
-    .pipe(dest('C:/Users/d/Documents/WindowsPowerShell'));
+    .pipe(dest($profile_location));
 }
 
 function watchp(){
