@@ -7,6 +7,8 @@ $psdir = 'C:\ps_scripts'
 New-Alias touch New-Item
 New-Alias openprof $psdir/openprofile.ps1
 New-Alias openscripts $psdir/openps_scripts.ps1
+New-Alias deskcln $psdir/desktopclean.ps1
+New-Alias specs $psdir/pc_specs.ps1
 
 # Directory Shortcuts
 New-Alias c $psdir/cd-to-c.ps1
