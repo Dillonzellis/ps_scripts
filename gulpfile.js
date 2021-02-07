@@ -1,4 +1,4 @@
-$profile_location = 'C:/Users/dillo/Documents/WindowsPowerShell'
+$profile_location = 'C:/Users/d/Documents/WindowsPowerShell'
 
 const gulp = require('gulp');
 const { src, series, parallel, dest, watch } = require('gulp');

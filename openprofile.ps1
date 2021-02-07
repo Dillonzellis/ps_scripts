@@ -1,1 +1,3 @@
-code C:\Users\d\Documents\WindowsPowerShell\profile.ps1
+. c:\ps_scripts\variables.ps1
+
+code $desktop_path\Documents\WindowsPowerShell\profile.ps1

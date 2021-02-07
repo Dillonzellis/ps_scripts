@@ -1,7 +1,7 @@
 # Has to be in ...Documents/WindowsPowerShell
 
 # Variables
-$psdir = 'C:\ps_scripts'
+. c:\ps_scripts\variables.ps1
 
 # General QOL Aliases
 New-Alias touch New-Item

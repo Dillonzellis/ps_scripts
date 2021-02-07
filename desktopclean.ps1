@@ -1,3 +1,5 @@
-New-Item -Path "C:\Users\d\Desktop\" -Name "temp-txts" -ItemType "directory"
+. c:\ps_scripts\variables.ps1
 
-Move-Item -Path "C:\Users\d\Desktop\*.txt" -Destination "C:\Users\d\Desktop\temp-txts"
+New-Item -Path $desktop_path -Name "temp-txts" -ItemType "directory"
+
+Move-Item -Path $desktop_path\*.txt -Destination $desktop_path\temp-txts
