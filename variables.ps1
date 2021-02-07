@@ -1,4 +1,2 @@
-
 $psdir = 'C:\ps_scripts'
-
-$desktop_path = "C:\Users\d\Desktop\"
+$users_path = 'C:\Users\d\'
