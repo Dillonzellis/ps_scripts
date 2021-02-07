@@ -22,6 +22,5 @@ New-Alias local 'C:\Program Files (x86)\Local\Local.exe'
 
 # Needs to be updated to current project/more modular
 # RLM Workflow Setup
-    # RLM Setup Scripts
-    New-Alias all $psdir/webdev-startup.ps1 
-    New-Alias rlm $psdir/rlm-code.ps1
+New-Alias all $psdir/webdev-startup.ps1 
+New-Alias rlm $psdir/rlm-code.ps1
