@@ -3,11 +3,12 @@
 ## Aliases
 
 ### General Aliases
-touch           |        New-Item<br />
-openprof        |        $psdir/openprofile.ps1<br />
-openscripts     |        $psdir/openps_scripts.ps1<br />
-deskcln         |        $psdir/desktopclean.ps1<br />
-specs           |        $psdir/pc_specs.ps1<br />
+----------------|----------------
+touch|New-Item<br />
+openprof|$psdir/openprofile.ps1<br />
+openscripts|$psdir/openps_scripts.ps1<br />
+deskcln|$psdir/desktopclean.ps1<br />
+specs|$psdir/pc_specs.ps1<br />
 
 ### Directory Shortcuts
 c               |        $psdir/cd-to-c.ps1<br />
