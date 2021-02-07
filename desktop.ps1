@@ -1,3 +1,3 @@
-$desktop_path = "C:\Users\dillo\Desktop\"
+. .\variables.ps1
 
 Set-Location $desktop_path
