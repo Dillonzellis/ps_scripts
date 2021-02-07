@@ -18,7 +18,7 @@ specs | gives pc details
 
 <br />
 
-Directory | Shortcuts
+Directory | Aliases
 ------------ | -------------
 c | opens c:/
 desktop | opens desktop
@@ -26,7 +26,7 @@ localsites | opens local sites dir
 
 <br />
 
-Program | Shortcuts
+Program | Aliases
 ------------ | -------------
 chrome | starts chrome
 cord | starts discord
@@ -43,8 +43,6 @@ rlm | opens rlmunderstrap theme with vscode
 
 ## Gulp
 Gulp functionality that copys *profile.ps1* in working directory to correct WindowsPowerShell directory
-
-<br />
 
 ### Gulp Tasks:
 copy = copy *profile.ps1* to WindowsPowerShell directory<br />
