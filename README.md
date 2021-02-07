@@ -1,13 +1,5 @@
 # Current Working PS Aliases and Scripts
 
-## Aliases
-
-<br />
-
-### General Aliases
-
-<br />
-
 Alias | Command
 ------------ | -------------
 touch | New-Item
