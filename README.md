@@ -2,33 +2,51 @@
 
 ## Aliases
 
+<br />
+
 ### General Aliases
-First Header | Second Header
+
+<br />
+
+Alias | Command
 ------------ | -------------
 touch | New-Item
-openprof | $psdir/openprofile.ps1
-openscripts | $psdir/openps_scripts.ps1
-deskcln | $psdir/desktopclean.ps1
-specs | $psdir/pc_specs.ps1
+openprof | opens profile.ps1 in ../WindowsPowerShell
+openscripts | opens ps scripts dir
+deskcln | moves all .txt on desktop to folder
+specs | gives pc details
 
-### Directory Shortcuts
-c               |        $psdir/cd-to-c.ps1<br />
-desktop         |        $psdir/desktop.ps1<br />
-localsites      |        $psdir/localsites.ps1<br />
+<br />
 
-### Program Shortcuts
-chrome          |       'C:\Program Files (x86)\Google\Chrome\Application\chrome.exe'<br />
-cord            |       'C:\Users\d\AppData\Local\Discord\app-0.0.309\Discord.exe'<br />
-local           |       'C:\Program Files (x86)\Local\Local.exe'<br />
+Directory | Shortcuts
+------------ | -------------
+c | opens c:/
+desktop | opens desktop
+localsites | opens local sites dir
 
-### RLM Workflow Setup
-all             |       $psdir/webdev-startup.ps1<br />
-rlm             |       $psdir/rlm-code.ps1<br />
+<br />
+
+Program | Shortcuts
+------------ | -------------
+chrome | starts chrome
+cord | starts discord
+local | starts local
+
+<br />
+
+RLM | Workflow Setup
+------------ | -------------
+all | opens rlm workflow
+rlm | opens rlmunderstrap theme with vscode
+
+<br />
 
 ## Gulp
 Gulp functionality that copys *profile.ps1* in working directory to correct WindowsPowerShell directory
 
+<br />
+
 ### Gulp Tasks:
-copy = copy profile to correct profile directory<br />
-watchp = watch profile.ps1 then *copy* task<br />
-exports.default = watchp<br />
+copy = copy *profile.ps1* to WindowsPowerShell directory<br />
+watchp = watch *profile.ps1* then *copy* task<br />
+default = watchp<br />
