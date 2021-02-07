@@ -8,4 +8,4 @@ Start-Process https://www.twitch.tv/directory/following
 Start-Process 'C:\Program Files (x86)\Local\Local.exe'
 
 # Open browser to local site
-Start-Process http://rlmdzstrap.local/wp-admin/
+# Start-Process http://rlmdzstrap.local/wp-admin/
