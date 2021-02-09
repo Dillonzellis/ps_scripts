@@ -1,4 +1,6 @@
-$profile_location = 'C:/Users/d/Documents/WindowsPowerShell'
+// Make find and replace through all files for correct current user //
+
+$profile_location = 'C:/Users/dillo/Documents/WindowsPowerShell'
 
 const gulp = require('gulp');
 const { src, series, parallel, dest, watch } = require('gulp');
