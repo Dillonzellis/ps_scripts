@@ -1,1 +1,3 @@
-Set-Location "C:\Users\d\Local Sites"
+. "c:/PS Scripts/ps_scripts/variables.ps1"
+
+Set-Location "$users_path\Local Sites"
