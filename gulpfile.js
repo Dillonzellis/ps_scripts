@@ -1,4 +1,4 @@
-// Make find and replace through all files for correct current user //
+// Make find and replace through all files for correct current user & variables path //
 
 $profile_location = 'C:/Users/dillo/Documents/WindowsPowerShell'
 

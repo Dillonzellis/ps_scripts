@@ -3,6 +3,7 @@
 # Variables
 . "c:/PS Scripts/ps_scripts/variables.ps1"
 
+
 # General QOL Aliases
 New-Alias touch New-Item
 New-Alias openprof $psdir/openprofile.ps1
