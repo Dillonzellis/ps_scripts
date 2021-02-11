@@ -3,9 +3,9 @@
 # Variables
 . "c:/PS Scripts/ps_scripts/variables.ps1"
 
-
 # General QOL Aliases
 New-Alias touch New-Item
+New-Alias lsf $psdir/getchild-item.ps1
 New-Alias openprof $psdir/openprofile.ps1
 New-Alias openscripts $psdir/openps_scripts.ps1
 New-Alias deskcln $psdir/desktopclean.ps1
