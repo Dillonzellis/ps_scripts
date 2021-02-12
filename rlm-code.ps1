@@ -1,1 +1,4 @@
-Set-Location 'C:\Users\d\Local Sites\rlmdzstrap\app\public\wp-content\themes\understrap'
+. "c:/PS Scripts/ps_scripts/variables.ps1"
+
+Set-Location "$users_path\Local Sites\rlmdzstrap\app\public\wp-content\themes\understrap"
+

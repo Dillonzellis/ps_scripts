@@ -1,1 +1,1 @@
-code C:\ps_scripts
+code "C:\PS Scripts\ps_scripts"
