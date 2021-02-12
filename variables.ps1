@@ -6,4 +6,3 @@ $desktop_path = "$users_path\Desktop\"
 
 $psdir = 'C:\ps_scripts'
 $users_path = 'C:\Users\d\'
-
