@@ -1,8 +1,42 @@
-# Current Working PS scripts and aliases
+# Current Working PS Aliases and Scripts
 
-Added gulp functionality that copys profile.ps1 in working directory to correct windowspowershell dir 
+Alias | Command
+------------ | -------------
+touch | New-Item
+openprof | opens profile.ps1 in ../WindowsPowerShell
+openscripts | opens ps scripts dir
+deskcln | moves all .txt on desktop to folder
+specs | gives pc details
 
-## Gulp tasks:
-gulp copy = copy profile to correct profile dir <br />
-watchp = watch profile.ps1 then "copy" task <br />
-exports.default = watchp <br />
+<br />
+
+Directory | Aliases
+------------ | -------------
+c | opens c:/
+desktop | opens desktop
+localsites | opens local sites dir
+
+<br />
+
+Program | Aliases
+------------ | -------------
+chrome | starts chrome
+cord | starts discord
+local | starts local
+
+<br />
+
+RLM | Workflow Setup
+------------ | -------------
+all | opens rlm workflow
+rlm | opens rlmunderstrap theme with vscode
+
+<br />
+
+## Gulp
+Gulp functionality that copys *profile.ps1* in working directory to correct WindowsPowerShell directory
+
+### Gulp Tasks:
+copy = copy *profile.ps1* to WindowsPowerShell directory<br />
+watchp = watch *profile.ps1* then *copy* task<br />
+default = watchp<br />

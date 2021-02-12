@@ -1,6 +1,9 @@
-$profile_location = 'C:/Users/dillo/Documents/WindowsPowerShell'
-$users_path = 'C:\Users\dillo'
-$psdir = 'C:\PS Scripts\ps_scripts\'
+
+$profile_location = "$users_path/Documents/WindowsPowerShell"
+$users_path = 'C:\Users\d'
 
 $desktop_path = "$users_path\Desktop\"
-$localsites_path =''
+
+$psdir = 'C:\ps_scripts'
+$users_path = 'C:\Users\d\'
+

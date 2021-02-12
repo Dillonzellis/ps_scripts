@@ -1,5 +1,5 @@
 . c:\ps_scripts\variables.ps1
 
-New-Item -Path $desktop_path -Name "temp-txts" -ItemType "directory"
+New-Item -Path $users_path\desktop -Name "temp-txts" -ItemType "directory"
 
-Move-Item -Path $desktop_path\*.txt -Destination $desktop_path\temp-txts
+Move-Item -Path $users_path\desktop\*.txt -Destination $users_path\desktop\temp-txts
