@@ -21,6 +21,7 @@ New-Alias downloads $psdir/downloads.ps1
 New-Alias chrome "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"
 New-Alias cord "C:\Users\d\AppData\Local\Discord\app-0.0.309\Discord.exe"
 New-Alias local "C:\Program Files (x86)\Local\Local.exe"
+New-Alias gpro "C:\Program Files (x86)\Guitar Pro 5\GP5.exe"
 
 # Needs to be updated to current project/more modular
 # RLM Workflow Setup
