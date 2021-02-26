@@ -3,6 +3,7 @@
 Alias | Command
 ------------ | -------------
 touch | New-Item
+lsf | Get-ChildItem -force
 openprof | opens profile.ps1 in ../WindowsPowerShell
 openscripts | opens ps scripts dir
 deskcln | moves all .txt on desktop to folder
@@ -15,6 +16,7 @@ Directory | Aliases
 c | opens c:/
 desktop | opens desktop
 localsites | opens local sites dir
+downloads | opens downloads
 
 <br />
 
