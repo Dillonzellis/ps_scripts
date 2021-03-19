@@ -27,3 +27,4 @@ New-Alias gpro "C:\Program Files (x86)\Guitar Pro 5\GP5.exe"
 # RLM Workflow Setup
 New-Alias all $psdir/webdev-startup.ps1 
 New-Alias rlm $psdir/rlm-code.ps1
+New-Alias rlmaff $psdir/rlmaffairs.ps1
