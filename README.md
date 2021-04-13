@@ -17,6 +17,7 @@ c | opens c:/
 desktop | opens desktop
 localsites | opens local sites dir
 downloads | opens downloads
+obj | opens objectives
 
 <br />
 

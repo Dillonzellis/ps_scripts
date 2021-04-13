@@ -16,6 +16,7 @@ New-Alias c $psdir/cd-to-c.ps1
 New-Alias desktop $psdir/desktop.ps1
 New-Alias localsites $psdir/localsites.ps1
 New-Alias downloads $psdir/downloads.ps1
+New-Alias obj $psdir/objectives.ps1
 
 # Program Shortcuts
 New-Alias chrome "C:\Program Files\Google\Chrome\Application\chrome.exe"
