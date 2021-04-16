@@ -17,14 +17,18 @@ c | opens c:/
 desktop | opens desktop
 localsites | opens local sites dir
 downloads | opens downloads
+obj | opens objectives
+
+
 
 <br />
 
 Program | Aliases
 ------------ | -------------
-chrome | starts chrome
-cord | starts discord
-local | starts local
+chrome | starts Chrome
+cord | starts Discord
+local | starts Local by Flywheel
+gpro | starts Guitar Pro 5
 
 <br />
 
