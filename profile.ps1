@@ -19,7 +19,7 @@ New-Alias downloads $psdir/downloads.ps1
 New-Alias obj $psdir/objectives.ps1
 
 # Program Shortcuts
-New-Alias chrome "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"
+New-Alias chrome "C:\Program Files\Google\Chrome\Application\chrome.exe"
 New-Alias cord "C:\Users\d\AppData\Local\Discord\app-0.0.309\Discord.exe"
 New-Alias local "C:\Program Files (x86)\Local\Local.exe"
 New-Alias gpro "C:\Program Files (x86)\Guitar Pro 5\GP5.exe"
