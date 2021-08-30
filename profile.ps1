@@ -17,12 +17,15 @@ New-Alias desktop $psdir/desktop.ps1
 New-Alias localsites $psdir/localsites.ps1
 New-Alias downloads $psdir/downloads.ps1
 New-Alias obj $psdir/objectives.ps1
+New-Alias js $psdir/js_2021.ps1
 
 # Program Shortcuts
 New-Alias chrome "C:\Program Files\Google\Chrome\Application\chrome.exe"
 New-Alias cord "C:\Users\d\AppData\Local\Discord\app-0.0.309\Discord.exe"
 New-Alias local "C:\Program Files (x86)\Local\Local.exe"
 New-Alias gpro "C:\Program Files (x86)\Guitar Pro 5\GP5.exe"
+New-Alias mongo "C:\Program Files\MongoDB\Server\5.0\bin\mongo.exe"
+New-Alias mongod "C:\Program Files\MongoDB\Server\5.0\bin\mongod.exe"
 
 # Needs to be updated to current project/more modular
 # RLM Workflow Setup
